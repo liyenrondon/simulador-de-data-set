@@ -1,0 +1,7 @@
+{
+  "name": "Simulador de Máquinas de Soporte Vectorial (SVM)",
+  "description": "Simulador interactivo, lúdico y pedagógico en 2D y 3D de Máquinas de Soporte Vectorial (SVM) con el dataset de valor de viviendas en EE.UU., hiperplanos, márgenes y asistente didáctico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
